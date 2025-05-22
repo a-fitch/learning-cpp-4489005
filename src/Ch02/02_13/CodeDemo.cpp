@@ -1,5 +1,5 @@
 // Learning C++ 
-// Challenge 02_13
+// Challenge 02_13 Completed
 // Calculate an Average, by Eduardo Corpeño 
 
 #include <iostream>
@@ -9,6 +9,8 @@ int main(){
     float result; 
 
     // Write your code here
+    result = nums[0] + nums[1] + nums[2] + nums[3] + nums[4];
+    result = result / 5;
     
     std::cout << "The average is " << result << std::endl;
     
