@@ -1,5 +1,5 @@
 // Learning C++ 
-// Exercise 03_10
+// Exercise 03_10 Completed
 // Using Objects with Vectors, by Eduardo Corpeño 
 
 #include <vector>
